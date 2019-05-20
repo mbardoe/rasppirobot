@@ -41,6 +41,7 @@ ground of the high voltage rail.
 of the regulator.
 * Finally use a wire to connect high voltage power rail to Vin
 
+
 and heat sink.
 
 Now connect Raspberry Pi to Computer
@@ -56,7 +57,7 @@ Renamed the device so that it would be unique on our network.
 
 Now we should ssh into the device. 
 
-Connect to Robotic-5 wifi, then the password is choate7407
+Connect to Robotic-5 wifi, then the password is the school followed by team number all lowercase one word. 
 
 
 mkdir Robot
