@@ -20,7 +20,7 @@ will have partner up, or simply work with power cords for the moment.
 
 ### Directions for the Voltage Regulator
 
-![voltage regulator breadboard]("https://github.com/mbardoe/rasppirobot/assets/VoltageRegulator_bb.png")
+![voltage regulator breadboard]("https://github.com/mbardoe/rasppirobot/blob/master/assets/VoltageRegulator_bb.png")
 
 
 The voltage regulator itself has three pins. Those pins with 
@@ -109,7 +109,7 @@ including an entire library we are including a few function from that library.
 
 Now let's make connections (like pinMode).
 
-![pinout for the pi]("https://github.com/mbardoe/rasppirobot/assets/pipinout.png")
+![pinout for the pi]("https://github.com/mbardoe/rasppirobot/blob/master/assets/pipinout.png")
 
 
 ```
