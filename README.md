@@ -109,6 +109,9 @@ including an entire library we are including a few function from that library.
 
 Now let's make connections (like pinMode).
 
+![pinout for the pi]("https://github.com/mbardoe/rasppirobot/assets/pipinout.png")
+
+
 ```
 enable1=PWMOutputDevice(5)
 forward1=DigitalOutputDevice(6)
