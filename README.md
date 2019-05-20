@@ -20,7 +20,7 @@ will have partner up, or simply work with power cords for the moment.
 
 ### Directions for the Voltage Regulator
 
-![voltage regulator breadboard]("https://github.com/mbardoe/rasppirobot/blob/master/assets/VoltageRegulator_bb.png")
+![voltage regulator breadboard](https://github.com/mbardoe/rasppirobot/blob/master/assets/VoltageRegulator_bb.png)
 
 
 The voltage regulator itself has three pins. Those pins with 
