@@ -158,7 +158,7 @@ nano motor1.py
 In this program write:
 
 ```
-rom gpiozero import PWMOutputDevice, DigitalOutputDevice
+from gpiozero import PWMOutputDevice, DigitalOutputDevice
 
 enable1=PWMOutputDevice(5)
 forward1=DigitalOutputDevice(6)
