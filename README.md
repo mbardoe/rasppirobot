@@ -109,7 +109,7 @@ including an entire library we are including a few function from that library.
 
 Now let's make connections (like pinMode).
 
-![pinout for the pi](https://github.com/mbardoe/rasppirobot/blob/master/assets/pipinout.jpeg)
+![pinout for the pi](https://github.com/mbardoe/rasppirobot/blob/master/assets/pipinout.jpg)
 
 
 ```
